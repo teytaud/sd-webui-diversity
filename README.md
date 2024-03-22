@@ -1,4 +1,4 @@
-# sd-webui-diversity
+# sd-webui-diversity (fork from mathuvu@github)
 
 ## Installation
 
